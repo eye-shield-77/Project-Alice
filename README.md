@@ -16,6 +16,7 @@
 
 В папке Preparation можно найти jupyter ноутбуки с решением промежуточных задач для проекта.
 
+<hr />
 
 ## Папка Specialization Peer-review Tasks
 
